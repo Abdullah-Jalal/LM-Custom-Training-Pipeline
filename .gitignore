@@ -1,0 +1,28 @@
+# environments
+tf_gpu/
+venv/
+env/
+
+# cache
+__pycache__/
+*.pyc
+.cache/
+
+# models
+*.pt
+*.pth
+*.bin
+*.ckpt
+*.h5
+
+# datasets
+*.csv
+*.zip
+*.json
+data/
+
+# notebooks
+.ipynb_checkpoints/
+
+# misc
+*.log
